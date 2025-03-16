@@ -10,6 +10,9 @@ summary: |-
 programming_language: Python
 environment: unittest
 content:
-- Essentials
-- Generic_Monads
+  - Essentials
+  - Generic_Monads
+additional_files:
+  - name: .idea/inspectionProfiles/profiles_settings.xml
 mode: Study
+yaml_version: 2
